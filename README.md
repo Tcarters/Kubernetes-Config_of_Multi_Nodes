@@ -71,4 +71,4 @@ Configuration of a Multi Nodes in AWS for Kubernetes
    By running "kubectl get nodes" , you can verify that all nodes are now ready to communicate and exchange datas. You can even launching a deployment or pods for confirmation.
    
    
- #Happy Automate && Administrate !!! Any suggestions will be the welcome.
+ #Happy Learning !!! Any suggestions will be the welcome.
